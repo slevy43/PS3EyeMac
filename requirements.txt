@@ -1,0 +1,10 @@
+# Python dependencies required by PS3EyeMac and pseyepy.
+# Kept explicit because upstream pseyepy does not declare all runtime deps in setup.py.
+numpy<3
+Cython>=0.29
+Pillow
+h5py
+opencv-python
+setuptools
+wheel
+git+https://github.com/bensondaled/pseyepy.git

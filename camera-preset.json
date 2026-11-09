@@ -1,0 +1,24 @@
+{
+  "hardware": {
+    "Auto WB": 0,
+    "Red balance": 29,
+    "Green balance": 0,
+    "Blue balance": 91,
+    "Auto gain": 0,
+    "Gain": 54,
+    "Exposure": 225
+  },
+  "software": {
+    "Saturation": 0,
+    "Contrast": 115,
+    "Brightness": 69,
+    "Warmth": 53,
+    "Tint": 95,
+    "Gamma": 10
+  },
+  "effects": {
+    "Timestamp": 1,
+    "Static": 0,
+    "VHS": 1
+  }
+}
